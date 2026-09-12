@@ -1,0 +1,154 @@
+{
+  "name": "Debian Swirl",
+  "description": "Theme sombre marine/charbon avec accent magenta neon, wallpaper ASCII swirl Debian integre nativement (sans Themes+).",
+  "authors": [
+    {
+      "name": "ImDebian",
+      "id": "0000000000000000"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#C7C8D1"
+    ],
+    "TEXT_NORMAL": [
+      "#F2F2F5"
+    ],
+    "TEXT_MUTED": [
+      "#8B8C96"
+    ],
+    "TEXT_LINK": [
+      "#F7007C"
+    ],
+    "TEXT_DANGER": [
+      "#FF5C5C"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#C7C8D1"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E7E8EE"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF3D9A"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5B5C66"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#15161CE6"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1B1C22E6"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#101116E6"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#1B1C22"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#1B1C22CC"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1B1C22CC"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#202128"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2A2B33"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#16171DF2"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#15161CE6"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1B1C22E6"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1B1C22F2"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#2A2B331A"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#2A2B3326"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2A2B333D"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2A2B3366"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2A2B331A"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#202128"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#202128"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#15161C"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1B1C22CC"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#6E6F79"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#A9AAB4"
+    ],
+    "CHANNEL_ICON": [
+      "#C7C8D1"
+    ],
+    "KEYBOARD": [
+      "#15161C"
+    ],
+    "BG_BACKDROP": [
+      "#000000B2"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2A2B33"
+    ],
+    "CHAT_BACKGROUND": [
+      "#15161C00"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_DARK": "#15161C",
+    "PRIMARY_100": "#F2F2F5",
+    "PRIMARY_200": "#C7C8D1",
+    "PRIMARY_300": "#8B8C96",
+    "PRIMARY_360": "#202128",
+    "PRIMARY_400": "#1B1C22",
+    "PRIMARY_500": "#15161C",
+    "PRIMARY_600": "#101116",
+    "PRIMARY_630": "#202128",
+    "PRIMARY_700": "#1B1C22",
+    "PRIMARY_800": "#15161C",
+    "PRIMARY_900": "#0A0A0D",
+    "ACCENT": "#F7007C",
+    "WHITE": "#FFFFFF",
+    "BLACK": "#000000"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/ImDebian/debian-swirl-theme/main/debian-swirl-background.png"
+  }
+}
