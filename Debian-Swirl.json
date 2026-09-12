@@ -1,10 +1,10 @@
 {
   "name": "Debian Swirl",
-  "description": "Theme sombre marine/charbon avec accent magenta neon, wallpaper ASCII swirl Debian integre nativement (sans Themes+).",
+  "description": "Just a simple Discord mobile theme about Debian distro.",
   "authors": [
     {
-      "name": "ImDebian",
-      "id": "0000000000000000"
+      "name": ".debian._",
+      "id": "1020384273510973500"
     }
   ],
   "spec": 2,
@@ -149,6 +149,6 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/ImDebian/debian-swirl-theme/main/debian-swirl-background.png"
+    "url": "https://raw.githubusercontent.com/ImDebian/debian-swirl-theme/main/wallpaper.png"
   }
 }
