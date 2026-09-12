@@ -10,37 +10,28 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#FFFFFF"
+      "#FF6FC0"
     ],
     "HEADER_SECONDARY": [
-      "#C7C8D1"
+      "#C983AE"
     ],
     "TEXT_NORMAL": [
-      "#F2F2F5"
+      "#FF4FD1"
     ],
     "TEXT_MUTED": [
-      "#8B8C96"
-    ],
-    "TEXT_LINK": [
-      "#F7007C"
-    ],
-    "TEXT_DANGER": [
-      "#FF5C5C"
+      "#8C6E80"
     ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#C7C8D1"
+      "#FF6FC0"
     ],
     "INTERACTIVE_HOVER": [
-      "#E7E8EE"
+      "#FFB3E6"
     ],
     "INTERACTIVE_ACTIVE": [
       "#FF3D9A"
     ],
     "INTERACTIVE_MUTED": [
-      "#5B5C66"
+      "#6E5060"
     ],
     "BACKGROUND_PRIMARY": [
       "#15161CE6"
@@ -57,14 +48,11 @@
     "CARD_BACKGROUND_DEFAULT": [
       "#1B1C22CC"
     ],
-    "CARD_PRIMARY_BG": [
-      "#1B1C22CC"
-    ],
     "BACKGROUND_TERTIARY": [
       "#202128"
     ],
     "BACKGROUND_ACCENT": [
-      "#2A2B33"
+      "#5C1042"
     ],
     "BACKGROUND_FLOATING": [
       "#16171DF2"
@@ -79,43 +67,43 @@
       "#1B1C22F2"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#2A2B331A"
+      "#F7007C1A"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#2A2B3326"
+      "#F7007C26"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#2A2B333D"
+      "#F7007C3D"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#2A2B3366"
+      "#F7007C66"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#2A2B331A"
+      "#F7007C"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#202128"
+      "#1B1C22"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#202128"
+      "#F7007C"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#15161C"
+      "#1B1C22"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#1B1C22CC"
     ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#6E6F79"
-    ],
     "CHANNELS_DEFAULT": [
-      "#A9AAB4"
+      "#B98CAE"
     ],
-    "CHANNEL_ICON": [
-      "#C7C8D1"
+    "TEXT_LINK": [
+      "#F7007C"
+    ],
+    "TEXT_DANGER": [
+      "#FF6B4A"
     ],
     "KEYBOARD": [
       "#15161C"
@@ -124,31 +112,48 @@
       "#000000B2"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2A2B33"
+      "#2A1524"
+    ],
+    "CHANNEL_ICON": [
+      "#B98CAE"
     ],
     "CHAT_BACKGROUND": [
       "#15161C00"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1B1C22CC"
     ]
   },
   "rawColors": {
-    "PRIMARY_DARK": "#15161C",
-    "PRIMARY_100": "#F2F2F5",
-    "PRIMARY_200": "#C7C8D1",
-    "PRIMARY_300": "#8B8C96",
-    "PRIMARY_360": "#202128",
-    "PRIMARY_400": "#1B1C22",
-    "PRIMARY_500": "#15161C",
-    "PRIMARY_600": "#101116",
+    "PRIMARY_500": "#1B1C22",
+    "PRIMARY_100": "#FF6FC0",
+    "PRIMARY_200": "#C983AE",
+    "PRIMARY_300": "#F7007C",
+    "PRIMARY_360": "#F7007C",
+    "PRIMARY_400": "#15161C",
+    "PRIMARY_600": "#202128",
     "PRIMARY_630": "#202128",
-    "PRIMARY_700": "#1B1C22",
-    "PRIMARY_800": "#15161C",
-    "PRIMARY_900": "#0A0A0D",
-    "ACCENT": "#F7007C",
-    "WHITE": "#FFFFFF",
-    "BLACK": "#000000"
+    "PRIMARY_660": "#202128",
+    "PRIMARY_700": "#202128",
+    "PRIMARY_800": "#202128",
+    "BLACK_500": "#000000B2",
+    "BRAND_260": "#F7007C",
+    "BRAND_360": "#F7007C",
+    "BRAND_500": "#F7007C",
+    "BRAND_560": "#F7007C",
+    "YELLOW_300": "#FF6B4A",
+    "GREEN_600": "#F7007C",
+    "RED_400": "#FF6B4A",
+    "WHITE_500": "#FF6FC0",
+    "GREEN_360": "#F7007C",
+    "PLUM_20": "#15161C",
+    "PLUM_17": "#1B1C22",
+    "PLUM_13": "#202128",
+    "PLUM_16": "#1B1C22",
+    "PLUM_23": "#1B1C22"
   },
   "background": {
-    "blur": 0,
+    "blur": 0.15,
     "url": "https://raw.githubusercontent.com/ImDebian/debian-swirl-theme/main/wallpaper.png"
   }
 }
